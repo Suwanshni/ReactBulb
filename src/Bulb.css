@@ -1,7 +1,7 @@
 button{
     margin: 0;
     background: yellow;
-    top: 80%;
+    margin-top: 30px;
 }
 
 *{
@@ -9,13 +9,17 @@ button{
 }
 
 img{
-    margin-top: 5%;
+    margin-top: 30px;
 }
 
 .on{
-    color:yellow;
+    color:rgb(240, 240, 91);
+    text-shadow: 2px 2px 8px #FFFF00;
+    margin-top: 20px;
 }
 
 .off{
     color: whitesmoke;
+    text-shadow: 2px 2px 8px #00FFFF;
+    margin-top: 20px;
 }
